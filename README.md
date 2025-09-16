@@ -30,6 +30,7 @@ Displays the results of each operation in a clear, formatted way.
 
 
 Task 2: Personalized Greeting
+
 This program demonstrates basic string manipulation and user interaction.
 Features:
 Asks the user for their first name and last name separately.
